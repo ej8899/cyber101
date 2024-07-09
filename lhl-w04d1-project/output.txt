@@ -1,13 +1,44 @@
-[0;32mTurn a New Leaf Youth Employment Agency[0;0m
+Turn a New Leaf Youth Employment Agency
+Report as of Tuesday, July 09, 2024 06:09 AM
 
-[1;34mReport as of [1;31mMonday, July 08, 2024 09:49 PM[0;0m
+Summary of (22) Failed Logins (Last 999 Days):
 
-[1;34mSummary of [1;31m(8) Failed[1;34m Logins (Last [1;31m7[1;34m Days):[0;0m
-User ID: [1;36muser456[0;0m, Timestamp: [0;32m2024-07-04T08:45:30[0;0m, IP Address: [0;32m192.168.1.20[0;0m, User Agent: [0;32mChrome/91.0[0;0m
-User ID: [1;36muser123[0;0m, Timestamp: [0;32m2024-07-05T14:23:20[0;0m, IP Address: [0;32m192.168.1.10[0;0m, User Agent: [0;32mMozilla/5.0[0;0m
-User ID: [1;36muser123[0;0m, Timestamp: [0;32m2024-07-05T14:23:19[0;0m, IP Address: [0;32m192.168.1.10[0;0m, User Agent: [0;32mMozilla/5.0[0;0m
-User ID: [1;36muser123[0;0m, Timestamp: [0;32m2024-07-05T14:23:18[0;0m, IP Address: [0;32m192.168.1.10[0;0m, User Agent: [0;32mMozilla/5.0[0;0m
-User ID: [1;36muser123[0;0m, Timestamp: [0;32m2024-07-05T14:23:17[0;0m, IP Address: [0;32m192.168.1.10[0;0m, User Agent: [0;32mMozilla/5.0[0;0m
-User ID: [1;36muser123[0;0m, Timestamp: [0;32m2024-07-05T14:23:16[0;0m, IP Address: [0;32m192.168.1.10[0;0m, User Agent: [0;32mMozilla/5.0[0;0m
-User ID: [1;36muser123[0;0m, Timestamp: [0;32m2024-07-05T14:23:15[0;0m, IP Address: [0;32m192.168.1.10[0;0m, User Agent: [0;32mMozilla/5.0[0;0m
-User ID: [1;36muser123[0;0m, Timestamp: [0;32m2024-07-03T12:14:45[0;0m, IP Address: [0;32m192.168.1.10[0;0m, User Agent: [0;32mMozilla/5.0[0;0m
+2024-07-08
+----------
+User ID: user123, Timestamp: 2024-07-08 09:23:27, IP Address: 103.237.44.74 - CAUTION: foreign IP 
+User ID: user123, Timestamp: 2024-07-08 09:23:17, IP Address: 103.237.44.13 - CAUTION: foreign IP 
+User ID: user123, Timestamp: 2024-07-08 09:23:15, IP Address: 103.237.44.23 - CAUTION: foreign IP Warning: Multiple login attempts within 5 seconds
+
+2024-07-05
+----------
+User ID: user123, Timestamp: 2024-07-05 14:23:20, IP Address: 192.168.1.10
+User ID: user123, Timestamp: 2024-07-05 14:23:19, IP Address: 192.168.1.10 -  Warning: Multiple login attempts within 5 seconds
+User ID: user123, Timestamp: 2024-07-05 14:23:18, IP Address: 192.168.1.10 -  Warning: Multiple login attempts within 5 seconds
+User ID: user123, Timestamp: 2024-07-05 14:23:17, IP Address: 192.168.1.10 -  Warning: Multiple login attempts within 5 seconds
+User ID: user123, Timestamp: 2024-07-05 14:23:16, IP Address: 192.168.1.10 -  Warning: Multiple login attempts within 5 seconds
+User ID: user123, Timestamp: 2024-07-05 14:23:15, IP Address: 192.168.1.10 -  Warning: Multiple login attempts within 5 seconds
+
+2024-07-04
+----------
+User ID: user456, Timestamp: 2024-07-04 08:45:30, IP Address: 192.168.1.20
+
+2024-07-03
+----------
+User ID: user123, Timestamp: 2024-07-03 12:14:45, IP Address: 192.168.1.10
+
+2024-07-01
+----------
+User ID: user789, Timestamp: 2024-07-01 09:23:15, IP Address: 192.168.1.30
+
+2023-10-01
+----------
+User ID: user123, Timestamp: 2023-10-01 13:15:00, IP Address: 192.168.1.24
+User ID: user123, Timestamp: 2023-10-01 13:05:00, IP Address: 192.168.1.22
+User ID: user123, Timestamp: 2023-10-01 12:55:00, IP Address: 192.168.1.20
+User ID: user123, Timestamp: 2023-10-01 12:45:00, IP Address: 192.168.1.18
+User ID: user987, Timestamp: 2023-10-01 12:40:00, IP Address: 192.168.1.17
+User ID: user123, Timestamp: 2023-10-01 12:35:00, IP Address: 192.168.1.16
+User ID: user123, Timestamp: 2023-10-01 12:25:00, IP Address: 192.168.1.14
+User ID: user789, Timestamp: 2023-10-01 12:15:00, IP Address: 192.168.1.12
+User ID: user123, Timestamp: 2023-10-01 12:10:00, IP Address: 192.168.1.10
+User ID: user123, Timestamp: 2023-10-01 12:00:00, IP Address: 192.168.1.10
