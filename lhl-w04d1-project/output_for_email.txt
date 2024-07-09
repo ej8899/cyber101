@@ -1,0 +1,31 @@
+Turn a New Leaf Youth Employment Agency
+Report as of Tuesday, July 09, 2024 06:16 AM
+
+Summary of (12) Failed Logins (Last 30 Days):
+
+2024-07-08
+----------
+User ID: user123, Timestamp: 2024-07-08 09:23:27, IP Address: 103.237.44.74 - CAUTION: foreign IP 
+User ID: user123, Timestamp: 2024-07-08 09:23:17, IP Address: 103.237.44.13 - CAUTION: foreign IP 
+User ID: user123, Timestamp: 2024-07-08 09:23:15, IP Address: 103.237.44.23 - CAUTION: foreign IP Warning: Multiple login attempts within 5 seconds
+
+2024-07-05
+----------
+User ID: user123, Timestamp: 2024-07-05 14:23:20, IP Address: 192.168.1.10
+User ID: user123, Timestamp: 2024-07-05 14:23:19, IP Address: 192.168.1.10 -  Warning: Multiple login attempts within 5 seconds
+User ID: user123, Timestamp: 2024-07-05 14:23:18, IP Address: 192.168.1.10 -  Warning: Multiple login attempts within 5 seconds
+User ID: user123, Timestamp: 2024-07-05 14:23:17, IP Address: 192.168.1.10 -  Warning: Multiple login attempts within 5 seconds
+User ID: user123, Timestamp: 2024-07-05 14:23:16, IP Address: 192.168.1.10 -  Warning: Multiple login attempts within 5 seconds
+User ID: user123, Timestamp: 2024-07-05 14:23:15, IP Address: 192.168.1.10 -  Warning: Multiple login attempts within 5 seconds
+
+2024-07-04
+----------
+User ID: user456, Timestamp: 2024-07-04 08:45:30, IP Address: 192.168.1.20
+
+2024-07-03
+----------
+User ID: user123, Timestamp: 2024-07-03 12:14:45, IP Address: 192.168.1.10
+
+2024-07-01
+----------
+User ID: user789, Timestamp: 2024-07-01 09:23:15, IP Address: 192.168.1.30
