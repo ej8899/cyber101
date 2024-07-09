@@ -126,5 +126,77 @@
     "ip_address": "192.168.1.24",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
     "error_message": "Invalid password"
+  },
+  {
+      "timestamp": "2024-07-05T14:23:15",
+      "user_id": "user123",
+      "status": "failed",
+      "ip_address": "192.168.1.10",
+      "user_agent": "Mozilla/5.0",
+      "error_message": "Invalid password"
+  },
+  {
+    "timestamp": "2024-07-05T14:23:16",
+    "user_id": "user123",
+    "status": "failed",
+    "ip_address": "192.168.1.10",
+    "user_agent": "Mozilla/5.0",
+    "error_message": "Invalid password"
+  },
+  {
+    "timestamp": "2024-07-05T14:23:17",
+    "user_id": "user123",
+    "status": "failed",
+    "ip_address": "192.168.1.10",
+    "user_agent": "Mozilla/5.0",
+    "error_message": "Invalid password"
+  },
+  {
+    "timestamp": "2024-07-05T14:23:18",
+    "user_id": "user123",
+    "status": "failed",
+    "ip_address": "192.168.1.10",
+    "user_agent": "Mozilla/5.0",
+    "error_message": "Invalid password"
+  },
+  {
+    "timestamp": "2024-07-05T14:23:19",
+    "user_id": "user123",
+    "status": "failed",
+    "ip_address": "192.168.1.10",
+    "user_agent": "Mozilla/5.0",
+    "error_message": "Invalid password"
+  },
+  {
+    "timestamp": "2024-07-05T14:23:20",
+    "user_id": "user123",
+    "status": "failed",
+    "ip_address": "192.168.1.10",
+    "user_agent": "Mozilla/5.0",
+    "error_message": "Invalid password"
+  },
+  {
+      "timestamp": "2024-07-04T08:45:30",
+      "user_id": "user456",
+      "status": "failed",
+      "ip_address": "192.168.1.20",
+      "user_agent": "Chrome/91.0",
+      "error_message": "Invalid username"
+  },
+  {
+      "timestamp": "2024-07-03T12:14:45",
+      "user_id": "user123",
+      "status": "failed",
+      "ip_address": "192.168.1.10",
+      "user_agent": "Mozilla/5.0",
+      "error_message": "Invalid password"
+  },
+  {
+      "timestamp": "2024-07-01T09:23:15",
+      "user_id": "user789",
+      "status": "failed",
+      "ip_address": "192.168.1.30",
+      "user_agent": "Safari/14.0",
+      "error_message": "Account locked"
   }
 ]
