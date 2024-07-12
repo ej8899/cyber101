@@ -1,6 +1,8 @@
 import json, argparse, os
 from datetime import datetime, timedelta
 
+os.system('clear')
+
 RED   = "\033[1;31m"  
 BLUE  = "\033[1;34m"
 CYAN  = "\033[1;36m"
