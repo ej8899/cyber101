@@ -7,6 +7,8 @@ https://docs.google.com/document/d/1S2rtuscc0y4Ri9SOUXD3y3vKv6o-dEnpgmcSEazBmbM/
 ---
 
 ### W02D5 - Report on Risks & Vulnerabilities
+Due W02D5 -  Submitted W02D5
+https://docs.google.com/document/d/1U0epSiDtGf0eQY8M0EJNU_jaJffmgdMVAcOnGh7KyGk/edit?usp=sharing
 
 ---
 
