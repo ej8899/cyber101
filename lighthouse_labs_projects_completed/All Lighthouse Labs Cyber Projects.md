@@ -1,6 +1,8 @@
 ## Projects in Lighthouse Labs Cybersecurity Program 2024
 
 ### W01D5 - Network Administration
+Due W01D5 - Submitted W01D5
+https://docs.google.com/document/d/1S2rtuscc0y4Ri9SOUXD3y3vKv6o-dEnpgmcSEazBmbM/edit?usp=sharing
 
 ---
 
