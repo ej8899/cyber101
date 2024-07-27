@@ -36,7 +36,8 @@ https://docs.google.com/document/d/1aX4FAqmRK2c6rCPyb2xiw1lT2PihyyjsPpcs1sbd-j0/
 
 ---
 
-### W06D4 - IR Plan, Playbook & Policy
+### W06D4 - (Incident Reponse) IR Plan, Playbook & Policy
+
 Due W06D4
 
 ---
@@ -54,14 +55,16 @@ https://docs.google.com/document/d/1N-R0sy7zCj4yw3DSRSMaq9H_aFEI3HSzoBAgmQ0bIIc/
 ---
 
 ### W09D3 - Forensics Report & Documentation
+Due W10D1 -  Submitted
 
 ---
 
 ### W10D5 - Secure Srchitecture Report & Recommendations
+Due W10D5 - Submitted
 
 ---
 
 ### W11D1 - Capstone Project 
-
+Due W12D3 - Submitted
 
 ---
