@@ -38,7 +38,16 @@ https://docs.google.com/document/d/1aX4FAqmRK2c6rCPyb2xiw1lT2PihyyjsPpcs1sbd-j0/
 
 ### W06D4 - (Incident Reponse) IR Plan, Playbook & Policy
 
-Due W06D4
+Due W06D4 - Submitted W06D3
+Policy Outline:  
+https://docs.google.com/document/d/1MJrBy6DCYvPrfuDxNubDWvX9OU5Gp7RyamDuq7hDqS8/edit?usp=sharing
+
+Playbook:  
+https://docs.google.com/document/d/1nItzKWJncWsVxKlDi9YJyTwU-5FDfA8MvVQK5MVwyHs/edit?usp=sharing
+
+Slides:  
+https://docs.google.com/presentation/d/1_VIjDbjQ5Sd1vXu9BJPnUHHLBV-cxukJOQSt7nOox4E/edit?usp=sharing
+
 
 ---
 
