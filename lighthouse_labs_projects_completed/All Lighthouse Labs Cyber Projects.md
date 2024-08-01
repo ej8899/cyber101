@@ -70,7 +70,7 @@ https://docs.google.com/document/d/16wZo-yVpbP1QUvdKIwgwKlAhjUMXanVGM2qfu5GTSjA/
 
 ---
 
-### W10D5 - Secure Srchitecture Report & Recommendations
+### W10D5 - Secure Architecture Report & Recommendations
 Due: W10D5 - Submitted:
 
 ---
