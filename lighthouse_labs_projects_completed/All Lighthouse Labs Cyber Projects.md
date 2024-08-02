@@ -79,4 +79,8 @@ Due: W10D5 - Submitted:
 Due: W12D3 - Submitted:
 
 ---
+
+Understand a bit more about how I work & create these report type projects.  I outline the tools I use, my process & how I create these reports [here](https://github.com/ej8899/cyber101/blob/main/lighthouse_labs_projects_completed/how_i_work.md).
+
+---
 <div align="right"><img src="https://komarev.com/ghpvc/?username=ej8899-cyber-projects&style=flat-square&color=008080" alt=""/></div>
