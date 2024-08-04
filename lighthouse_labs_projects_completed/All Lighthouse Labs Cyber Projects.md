@@ -1,12 +1,12 @@
 ## Welcome to my Cybersecurity Projects of 2024  
-### [ErnieJohnson.ca - Portfolio Web Site](https://www.erniejohnson.ca)
+### [🏡 ErnieJohnson.ca - Portfolio Web Site](https://www.erniejohnson.ca)
 
 <a href="mailto:ej8899@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="send email to ej8899@gmail.com" /></a>&nbsp;<a href="https://www.linkedin.com/in/ernie-johnson/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="https://flowcv.com/resume/0chloacpte"><img alt="Static Badge" src="https://img.shields.io/badge/RESUME-8A2BE2?style=for-the-badge"></a>
 ---
 
-As a web and application developer, I have a strong interest in AppSec (Applicaton Security) and cybersecurity in general. I have experience with various tools and technologies used in this field, including Kali Linux, Wireshark, Nmap, and more. I am also familiar with common security vulnerabilities and best practices for securing web applications.
+👨‍💻 As a web and application developer, I have a strong interest in AppSec (Applicaton Security) and cybersecurity in general. I have experience with various tools and technologies used in this field, including Kali Linux, Wireshark, Nmap, and more. I am also familiar with common security vulnerabilities and best practices for securing web applications.
 
-I also setup an extensive home lab environment with multiple servers that also span different provinces and connect via secure VPNs. I have experience with setting up and configuring various types of servers, including web servers, database servers, and more. Some of this server space is rented out for a Canadian civil engineering company who utilizes it for their business on a day to day basis, and some space is rented out for business and private user off-site backup storage solutions.
+🖥️ I also designed and implemented an extensive home lab environment with multiple servers that also span different provinces and connect via secure VPNs. I have experience with setting up and configuring various types of servers, including web servers, database servers, and more. Some of this server space is rented out for a Canadian civil engineering company who utilizes it for their business on a day to day basis, and some space is rented out for business and private user off-site backup storage solutions.
 
 ---
 
@@ -17,21 +17,33 @@ The following are projects and jobs I completed as a freelancer in 2023 and 2024
 
 
 ### Jan 2024 - Wordpress Base64 Attack & Exploit
+Freelance job:
  - report coming soon
+ - diagnose and clean web server of base64 encoded "conditional redirect malware"
+ - write custom python to recurse, log and clean infected files
+ - this infeced an entire shared hosting service of multiple wordpress sites across multiple users 
  - assemble user training materials and campaigns
 
-### January 2024 - M365 Sys Admin (Canadian Company - NDA in place)
+### January 2024 - M365 Sys Admin (Windsor, ON - NDA in place)
+Freelance job:
  - includes setup & admin of M365 Tenant
  - create IT and cybersecurity policies
  - create IT and cybersecurity training materials
  - create and administer phishing attack simulations
  - develop custom Sharepoint sites, Lists, and Forms
 
-### March 2024 - Wordpress Base64 Attack & Exploit
+### Feb 2024 - Wordpress Base64 Attack & Exploit
+Freelance job:
  - report coming soon
+ - diagnose and clean web server of base64 encoded "conditional redirect malware" - write custom python to recurse, log and clean infected files
+ - fix .htaccess files that were also altered by malware
+ - clear all FTP accounts, and recreate FTP accounts with new names and more secure passphrases.  Setup MFA on server account for client.
+ - create off-site server backup plan as nothing had been in place and included database in backup plan
+ - develop cybersecurity incident response plan for company after they attempted fixing the problem themselves and ereased database in the process
  - assemble user training materials and campaigns
 
-### June - M365 Sys Admin (USA Company - NDA in place)
+### June - M365 Sys Admin (Detroit, MI - NDA in place)
+Freelance job:
  - includes setup & admin of M365 Tenant
  - create IT and cybersecurity policies
  - create IT and cybersecurity training materials
