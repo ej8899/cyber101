@@ -1,4 +1,53 @@
-## Projects in Lighthouse Labs Cybersecurity Program 2024
+## Welcome to my Cybersecurity Projects of 2024  
+### [ErnieJohnson.ca - Portfolio Web Site](https://www.erniejohnson.ca)
+
+<a href="mailto:ej8899@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="send email to ej8899@gmail.com" /></a>&nbsp;<a href="https://www.linkedin.com/in/ernie-johnson/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="https://flowcv.com/resume/0chloacpte"><img alt="Static Badge" src="https://img.shields.io/badge/RESUME-8A2BE2?style=for-the-badge"></a>
+---
+
+As a web and application developer, I have a strong interest in AppSec (Applicaton Security) and cybersecurity in general. I have experience with various tools and technologies used in this field, including Kali Linux, Wireshark, Nmap, and more. I am also familiar with common security vulnerabilities and best practices for securing web applications.
+
+I also setup an extensive home lab environment with multiple servers that also span different provinces and connect via secure VPNs. I have experience with setting up and configuring various types of servers, including web servers, database servers, and more. Some of this server space is rented out for a Canadian civil engineering company who utilizes it for their business on a day to day basis, and some space is rented out for business and private user off-site backup storage solutions.
+
+---
+
+
+### Other Cybersecurity Projects:  
+
+The following are projects and jobs I completed as a freelancer in 2023 and 2024 to date.
+
+
+### Jan 2024 - Wordpress Base64 Attack & Exploit
+ - report coming soon
+ - assemble user training materials and campaigns
+
+### January 2024 - M365 Sys Admin (Canadian Company - NDA in place)
+ - includes setup & admin of M365 Tenant
+ - create IT and cybersecurity policies
+ - create IT and cybersecurity training materials
+ - create and administer phishing attack simulations
+ - develop custom Sharepoint sites, Lists, and Forms
+
+### March 2024 - Wordpress Base64 Attack & Exploit
+ - report coming soon
+ - assemble user training materials and campaigns
+
+### June - M365 Sys Admin (USA Company - NDA in place)
+ - includes setup & admin of M365 Tenant
+ - create IT and cybersecurity policies
+ - create IT and cybersecurity training materials
+ - create and administer phishing attack simulations
+ - develop custom software including smart digital kiosk displays (on Rasbperry Pi systems)
+### coming soon
+ - training document templates
+ - policy templates
+
+---
+---
+
+### Lighthouse Labs Cybersecurity Projects:   
+
+The following are projects I completed during my time at Lighthouse Labs from June 2024 to September 11 2024.  Due and Submitted are dates in a Week xx and Day xx format based on the start of course.
+
 
 ### W01D5 - Network Administration
 Due: W01D5 - Submitted: W01D5  
@@ -13,6 +62,7 @@ https://docs.google.com/document/d/1U0epSiDtGf0eQY8M0EJNU_jaJffmgdMVAcOnGh7KyGk/
 ---
 
 ### W04D1 - Log Monitoring Workflow
+Project was to use Python and Bash scripting to monitor and parse log files.  
 Due: W04D1 - Submitted: W03D5  
 https://docs.google.com/document/d/1KxzfbxNINT0-kvVLV_rImZw5lZKiXajS94_nJOKqy_M/edit?usp=sharing
 
@@ -58,13 +108,15 @@ https://docs.google.com/document/d/1SwwDusG9tMg_vqDTIYMTV1IW2dKXMlnDoO8XdvnFte0/
 ---
 
 ### W08D4 - Writing Investigation & Research Report
+A research report on the Colonial Pipeline Ransomware Attack of 2021.  
 Due: W08D5 - Submitted: W05D5  
 [Google Doc](https://docs.google.com/document/d/1N-R0sy7zCj4yw3DSRSMaq9H_aFEI3HSzoBAgmQ0bIIc/edit?usp=sharing)
 
 
 ---
 
-### W09D3 - Forensics Report & Documentation (The Stolen Szechuan Sauce)
+### W09D3 - Forensics Report & Documentation  
+The Stolen Szechuan Sauce
 Due: W10D1 -  Submitted:  xxxx  
 ** Caution, this report contains spoilers for the project!  
 https://docs.google.com/document/d/16wZo-yVpbP1QUvdKIwgwKlAhjUMXanVGM2qfu5GTSjA/edit?usp=sharing 
@@ -80,7 +132,8 @@ Due: W10D5 - Submitted:
 Due: W12D3 - Submitted:
 
 ---
-
+---
+### How I Work:
 Understand a bit more about how I work & create these report type projects.  I outline the tools I use, my process & how I create these reports [here](https://github.com/ej8899/cyber101/blob/main/lighthouse_labs_projects_completed/how_i_work.md).
 
 
