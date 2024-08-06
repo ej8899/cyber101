@@ -1,3 +1,9 @@
+#### [GitHub Cyber Home](https://www.github.com/ej8899/
+
+#### [GitHub Cyber Home](https://www.github.com/ej8899/cyber101) | [🏡 ErnieJohnson.ca - Portfolio Web Site](https://www.erniejohnson.ca)
+
+---
+
 2024-08-01  
 Thanks to all who jumped in on a call last night to ask questions about the W6 project.  Thought I'd share a bit more about my tools & workflow when doing these reports in case it helps anyone else!
 
