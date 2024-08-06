@@ -60,4 +60,19 @@ Ontario location:
 - secure VPN to link to Calgary - SSD drives sync (2-way) to Calgary NAS
 - Raspberry Pi - smart display system
 ---
+<details>	
+  <summary>&nbsp;⚙️&nbsp;&nbsp;Things I use to get stuff done...</summary>
+	<br/>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu, Windows 11, MacOS</li>
+	      <li><b>Laptop: </b> 16" Macbook Pro, Lenovo Thinkpad X1 Carbon, Samsung Galaxy Book Ultra 4, Samsung Galaxy Book 3 360 Pro -- <a href="https://amzn.to/44xavQu">shop Canada</a> | <a href="https://amzn.to/3rC6UlL">shop USA</a></li>
+  	    <li><b>Browser: </b> Chrome, Firefox, Opera, Safari</li>
+	      <li><b>Terminal: </b> Warp with ZSH: Oh My Zsh</li>
+	      <li><b>Code Editors:</b> VSCode, Sublime.</li>
+	      <li><b>To Stay Updated:</b> Stackoverflow, Dev.to, Medium, Linkedin and Twitter.</li>
+	</ul>
+	<hr>
+</details>
+
+---
 <div align="right"><img src="https://komarev.com/ghpvc/?username=ej8899-cyber-projects&style=flat-square&color=008080" alt=""/></div>
