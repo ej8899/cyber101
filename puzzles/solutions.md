@@ -40,6 +40,7 @@ In other words - don't cheat - follow the steps and learn, or develop your own f
 
 
 - looked up file signatures (magic numbers) and compared the first few bytes.  Newbies - you'll want to remember that the first few bytes of a file are the magic number.  You can find a list of these here: https://en.wikipedia.org/wiki/List_of_file_signatures
+and here: https://www.garykessler.net/library/file_sigs.html
 
 - recognize it a GZIP file.
 
