@@ -48,4 +48,14 @@ Ernie has successfully assisted organisations across various sectors, ranging fr
 -  [Assorted Related puzzles](./puzzles/README.md)  
 
 ---
+### My Home Lab...
+Calgary location:
+- Synology NAS - 9 drive, 65Tb - media server, file server, backup server
+- UnRaid Server - ~100Tb - extra file server, VM server
+- UnRaid Backup Server - ~100Tb  
+
+Ontario location:
+- Beelink MiniPC Server - 4.5Tb all SSD server
+- secure VPN to link to Calgary - SSD drives sync (2-way) to Calgary NAS
+---
 <div align="right"><img src="https://komarev.com/ghpvc/?username=ej8899-cyber-projects&style=flat-square&color=008080" alt=""/></div>
