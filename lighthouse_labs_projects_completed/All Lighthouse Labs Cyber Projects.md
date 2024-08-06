@@ -45,10 +45,11 @@ Freelance job:
 ### June - M365 Sys Admin (Detroit, MI - NDA in place)
 Freelance job:
  - includes setup & admin of M365 Tenant
+ - transfer of data from small local server to M365 cloud (SharePoint) system
  - create IT and cybersecurity policies
  - create IT and cybersecurity training materials
  - create and administer phishing attack simulations
- - develop custom software including smart digital kiosk displays (on Rasbperry Pi systems)
+ - develop custom software including smart digital kiosk displays (Rasbperry Pi4b Apache http server and Raspberry Pi4b display end points)
 ### coming soon
  - training document templates
  - policy templates
@@ -77,6 +78,9 @@ https://docs.google.com/document/d/1U0epSiDtGf0eQY8M0EJNU_jaJffmgdMVAcOnGh7KyGk/
 Project was to use Python and Bash scripting to monitor and parse log files.  
 Due: W04D1 - Submitted: W03D5  
 https://docs.google.com/document/d/1KxzfbxNINT0-kvVLV_rImZw5lZKiXajS94_nJOKqy_M/edit?usp=sharing
+
+W04D4 - InfoSec Risk Assessment Checklist 
+https://docs.google.com/presentation/d/1KLorXu4rUYQmNbc420TclBBtZfNq_zL4TfIZKUNP_HQ/edit?usp=sharing 
 
 ---
 
