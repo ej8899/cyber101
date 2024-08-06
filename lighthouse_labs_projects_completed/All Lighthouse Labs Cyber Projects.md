@@ -34,7 +34,7 @@ Freelance job:
 
 ### Feb 2024 - Wordpress Base64 Attack & Exploit
 Freelance job:
- - report coming soon
+ - [redacted report available here](https://docs.google.com/document/d/1YAL9oZKKj-9ZovlHhfk0WGl1hoQ8ncX0cgTqtRaP1-8/edit?usp=sharing)
  - diagnose and clean web server of base64 encoded "conditional redirect malware" - write custom python to recurse, log and clean infected files
  - fix .htaccess files that were also altered by malware
  - clear all FTP accounts, and recreate FTP accounts with new names and more secure passphrases.  Setup MFA on server account for client.
@@ -129,6 +129,7 @@ Due: W08D5 - Submitted: W05D5
 
 ### W09D3 - Forensics Report & Documentation  
 The Stolen Szechuan Sauce
+[(from DFIR Madness Case 001)](https://dfirmadness.com/case-001-super-timeline-analysis/)  
 Due: W10D1 -  Submitted:  W07D1  
 ** Caution, this report contains spoilers for the project!  
 https://docs.google.com/document/d/16wZo-yVpbP1QUvdKIwgwKlAhjUMXanVGM2qfu5GTSjA/edit?usp=sharing 
