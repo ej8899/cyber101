@@ -65,9 +65,9 @@ Ontario location:
 	<br/>
   	<ul>
   	    <li><b>OS:</b> Ubuntu, Windows 11, MacOS</li>
-	      <li><b>Laptop: </b> 16" Macbook Pro, Lenovo Thinkpad X1 Carbon, Samsung Galaxy Book Ultra 4, Samsung Galaxy Book 3 360 Pro -- <a href="https://amzn.to/44xavQu">shop Canada</a> | <a href="https://amzn.to/3rC6UlL">shop USA</a></li>
+	      <li><b>Laptop: </b> 16" Macbook Pro, Lenovo Thinkpad X1 Carbon, Samsung Galaxy Book Ultra 4, Samsung Galaxy Book 3 360 Pro -- <a href="https://amzn.to/44xavQu" target=_new>shop Canada</a> | <a href="https://amzn.to/3rC6UlL" target=_new>shop USA</a></li>
   	    <li><b>Browser: </b> Chrome, Firefox, Opera, Safari</li>
-	      <li><b>Terminal: </b> Warp with ZSH: Oh My Zsh</li>
+	      <li><b>Terminal: </b> <a href="https://github.com/warpdotdev/Warp" target=_new>Warp</a> with ,ZSH: <a href="https://github.com/ohmyzsh/ohmyzsh" target=_new>Oh My Zsh</a></li>
 	      <li><b>Code Editors:</b> VSCode, Sublime.</li>
 	      <li><b>To Stay Updated:</b> Stackoverflow, Dev.to, Medium, Linkedin and Twitter.</li>
 	</ul>
