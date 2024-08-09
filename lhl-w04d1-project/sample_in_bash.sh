@@ -58,9 +58,9 @@ echo "the log file is $LOG_FILE"
 
 # comment or remove comments below to see how this works. 
 # SEARCH_PATTERN="208.*.*.*"
-SEARCH_PATTERN="208.115.*.*"
+# SEARCH_PATTERN="208.115.*.*"
 # SEARCH_PATTERN=" 404 "
-# SEARCH_PATTERN="wp-admin"
+SEARCH_PATTERN="wp-admin"
 
 # create a regex version of the IP pattern (if an IP pattern is detected)
 # we use 'sed' which acts like a search and replace tool using regex patterns

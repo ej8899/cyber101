@@ -1,0 +1,17 @@
+Summary of Failed Logins (Last Week):
+User ID: user456, Timestamp: 2024-07-04T08:45:30, IP Address: 192.168.1.20, User Agent: Chrome/91.0
+User ID: user123, Timestamp: 2024-07-05T14:23:15, IP Address: 192.168.1.10, User Agent: Mozilla/5.0
+User ID: user123, Timestamp: 2024-07-03T12:14:45, IP Address: 192.168.1.10, User Agent: Mozilla/5.0
+User ID: user789, Timestamp: 2024-07-01T09:23:15, IP Address: 192.168.1.30, User Agent: Safari/14.0
+
+
+
+crontab -e
+30 2 * * * /myScriptsDirectory/run_backup.sh
+
+
+chmod 755 run_backup.sh
+
+
+
+failed_login_report.py | weekly_report_ending_2024-07-11.txt

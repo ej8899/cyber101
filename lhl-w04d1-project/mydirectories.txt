@@ -1,0 +1,9 @@
+ append_to_log.py
+ db_backup.sh
+ mydirectories.txt
+ output.py
+ output.txt
+ output_for_email.txt
+ samplelogdata.json
+ sampleoutput.json
+ variables.py
