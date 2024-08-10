@@ -63,5 +63,7 @@ https://www.youtube.com/watch?v=n0OwGSX2IiQ&list=PLop3s1hMlSJKXqmuFjK7gbJh2WAyll
 
 
 A history of phone phreaking
-https://www.youtube.com/watch?v=4tHyZdtXULw 
+https://www.youtube.com/watch?v=4tHyZdtXULw  
 
+---
+<div align="right"><img src="https://komarev.com/ghpvc/?username=ej8899-cyber-projects&style=flat-square&color=orange&label=homelab+views" alt=""/></div>
