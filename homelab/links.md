@@ -46,7 +46,7 @@ Most name brands are good - SanDisk seems to be ok in this department - I've nev
 Fractal XL desktop case (18 drive bays)  
 https://amzn.to/3SKxT9r   
 
-Internal 3.5" HDD's  for a file server
+Internal 3.5" HDD's  for a file server  
 https://amzn.to/3WYUi5m 
 
 
