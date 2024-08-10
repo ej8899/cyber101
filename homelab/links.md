@@ -58,8 +58,7 @@ https://amzn.to/3WYUi5m
 
 
 ## Some interesting history...
-Interesting history of Bulletin Board Systems (pre-internet)
-
+Interesting history of Bulletin Board Systems (pre-internet)  
 https://www.youtube.com/watch?v=n0OwGSX2IiQ&list=PLop3s1hMlSJKXqmuFjK7gbJh2WAyllTTY
 
 
