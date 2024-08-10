@@ -1,4 +1,4 @@
-## Links to hardware and software discussed...
+## Links to software discussed...
 
 Linux ISO distro watch:  
 https://distrowatch.com/
@@ -17,6 +17,9 @@ https://www.proxmox.com/en/
 
 GNS3:  
 https://www.gns3.com/
+
+
+## Links to hardware discussed...
 
 Synology NAS:  
 https://amzn.to/3YFWgbZ 
