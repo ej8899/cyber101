@@ -48,6 +48,9 @@ Ernie has successfully assisted organisations across various sectors, ranging fr
 -  [Assorted Related puzzles](./puzzles/README.md)  
 
 ---
+### My Home Lab Course...
+- [My Homelab "course" links](https://github.com/ej8899/cyber101/blob/main/homelab/links.md)  
+
 ### My Home Lab...
 Calgary location:
 - Synology NAS - 9 drive, 65Tb - media server, file server, backup server

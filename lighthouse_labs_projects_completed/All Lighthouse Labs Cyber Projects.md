@@ -149,6 +149,16 @@ Due: W10D5 - Submitted:
 Due: W12D3 - Submitted:
 
 ---
+
+### Additional Lighthouse Labs weekly assignments  
+
+W06D5 - [Playfair Debugging](https://github.com/ej8899/cyber101/tree/main/lighthouselabs_bootcamp/lhl-w06d5)
+
+W07D2 - [Bash Scripting](https://github.com/ej8899/cyber101/tree/main/lighthouselabs_bootcamp/lhl-w07d2)  
+W07D5 - [Carbanak Case Study](https://github.com/ej8899/cyber101/tree/main/lighthouselabs_bootcamp/lhl-w07d5)  
+
+Other assignments, files and miscellaneous notes not specifically listed above are [here](https://github.com/ej8899/cyber101/tree/main/lighthouselabs_bootcamp).
+
 ---
 ### How I Work:
 Understand a bit more about how I work & create these report type projects.  I outline the tools I use, my process & how I create these reports [here](https://github.com/ej8899/cyber101/blob/main/lighthouse_labs_projects_completed/how_i_work.md).
