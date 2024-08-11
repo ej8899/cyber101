@@ -10,20 +10,57 @@ Please note that this is an ongoing WIP (Work In Progress)
 Linux ISO distro watch:  
 https://distrowatch.com/
 
+Ubuntu Desktop 24.04  
+https://ubuntu.com/download/desktop
+
+Linux Mint 22  
+https://linuxmint.com/download.php
+
+Pop!_OS  
+https://pop.system76.com/
+
+
+Ubuntu Server 24.04  
+https://ubuntu.com/download/server
+
+Windows Server 2019  
+https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019
+
 Windows Server 2022  
 https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022 
 
 Windows 11 downloads:  
 https://www.microsoft.com/en-ca/software-download/windows11 
 
-UnRaid Server OS:  
+## Specialty Server Software
+
+UnRaid Server OS (Powerful server software to create file shares, VM hosting, run docker containers and more):  
 https://unraid.net/
 
-Proxmox:  
+Proxmox (Run & manage multiple virtual machines on  a single server):  
 https://www.proxmox.com/en/ 
 
-GNS3:  
+
+## Other Specialty Software
+
+GNS3 (Network Simulation Tool):  
 https://www.gns3.com/
+
+
+## Specialty ISO's
+
+Open vSwitch  
+https://www.openvswitch.org/  
+
+Open WRT Router  
+https://openwrt.org/
+
+Firewall  
+https://www.pfsense.org/
+
+Pi-hole adblocker  
+https://pi-hole.net/
+
 
 
 ## Links to hardware discussed...
