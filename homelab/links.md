@@ -110,6 +110,9 @@ https://www.reddit.com/r/homelab/
 Reddit HomeServer  
 https://www.reddit.com/r/HomeServer/
 
+DNS Checker - lookup MAC addresses, scan open ports on IPs, etc.  
+https://dnschecker.org/ 
+
 ## Some interesting history...
 Interesting history of Bulletin Board Systems (pre-internet)  
 https://www.youtube.com/watch?v=n0OwGSX2IiQ&list=PLop3s1hMlSJKXqmuFjK7gbJh2WAyllTTY
