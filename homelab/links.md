@@ -32,6 +32,13 @@ https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 Windows 11 downloads:  
 https://www.microsoft.com/en-ca/software-download/windows11 
 
+
+FreeDOS:  
+https://www.freedos.org/download/
+
+RetroPie:  
+https://retropie.org.uk/
+
 ## Specialty Server Software
 
 UnRaid Server OS (Powerful server software to create file shares, VM hosting, run docker containers and more):  
