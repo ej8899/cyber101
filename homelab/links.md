@@ -1,6 +1,10 @@
 ## Home Lab Basics
 #### [GitHub Cyber Home](https://www.github.com/ej8899/cyber101) | [🏡 ErnieJohnson.ca - Portfolio Web Site](https://www.erniejohnson.ca)
 ---
+## The Presentation
+Please note that this is an ongoing WIP (Work In Progress)  
+[click here for the current version](https://docs.google.com/presentation/d/1PpMvfVFYGfRB2OP9L7nZI7RBDzqLx1VkYsxkGi1PnHE/edit?usp=sharing)
+
 ## Links to software discussed...
 
 Linux ISO distro watch:  
@@ -55,14 +59,19 @@ https://amzn.to/3SKxT9r
 Internal 3.5" HDD's  for a file server  
 https://amzn.to/3WYUi5m 
 
+## Other Links
+Reddit HomeLab  
+https://www.reddit.com/r/homelab/ 
 
+Reddit HomeServer  
+https://www.reddit.com/r/HomeServer/
 
 ## Some interesting history...
 Interesting history of Bulletin Board Systems (pre-internet)  
 https://www.youtube.com/watch?v=n0OwGSX2IiQ&list=PLop3s1hMlSJKXqmuFjK7gbJh2WAyllTTY
 
 
-A history of phone phreaking
+A history of phone phreaking  
 https://www.youtube.com/watch?v=4tHyZdtXULw  
 
 ---
