@@ -135,7 +135,7 @@ Due: W08D5 - Submitted: W05D5
 The Stolen Szechuan Sauce
 [(from DFIR Madness Case 001)](https://dfirmadness.com/case-001-super-timeline-analysis/)  
 Due: W10D1 -  Submitted:  W07D1  
-** Caution, this report contains spoilers for the project!  
+** Caution, this report contains spoilers for the project - not just final solutions, but proceedures too!  
 https://docs.google.com/document/d/16wZo-yVpbP1QUvdKIwgwKlAhjUMXanVGM2qfu5GTSjA/edit?usp=sharing 
 
 ---
