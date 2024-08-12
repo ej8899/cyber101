@@ -53,6 +53,9 @@ https://www.proxmox.com/en/
 GNS3 (Network Simulation Tool):  
 https://www.gns3.com/
 
+NextCloud Self-hosted Collaboration Suite  
+https://nextcloud.com/ 
+
 
 ## Specialty ISO's
 
