@@ -26,5 +26,6 @@
 | **NIST SP 800-171**         | Specifies security requirements for protecting controlled unclassified information (CUI) in non-federal information systems and organizations. | Controlled Unclassified Information, Compliance |
 | **ISO/IEC 27002**           | Provides guidelines for organizational information security standards and information security management practices, extending ISO/IEC 27001. | Information Security Practices        |
 | **NIST SP 800-61**          | Provides guidelines for handling and responding to cybersecurity incidents, including preparation, detection, analysis, containment, eradication, and recovery. | Incident Response, Cybersecurity Operations |
+| **PIPEDA (Personal Information Protection and Electronic Documents Act)** | Establishes rules for how private-sector organizations in Canada must collect, use, and disclose personal information in the course of commercial activities. | Data Privacy, Legal Compliance |
 
 ---
