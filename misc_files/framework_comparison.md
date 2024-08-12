@@ -25,4 +25,6 @@
 | **CSA CCM (Cloud Security Alliance Cloud Controls Matrix)** | Provides a framework of cloud-specific security controls, mapped to leading standards and regulations, to ensure secure cloud computing environments. | Cloud Security, Best Practices        |
 | **NIST SP 800-171**         | Specifies security requirements for protecting controlled unclassified information (CUI) in non-federal information systems and organizations. | Controlled Unclassified Information, Compliance |
 | **ISO/IEC 27002**           | Provides guidelines for organizational information security standards and information security management practices, extending ISO/IEC 27001. | Information Security Practices        |
+| **NIST SP 800-61**          | Provides guidelines for handling and responding to cybersecurity incidents, including preparation, detection, analysis, containment, eradication, and recovery. | Incident Response, Cybersecurity Operations |
+
 ---
