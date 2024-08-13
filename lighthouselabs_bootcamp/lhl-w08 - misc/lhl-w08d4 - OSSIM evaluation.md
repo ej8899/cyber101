@@ -3,7 +3,9 @@
 #### [🛡️ GitHub Cyber Home](https://www.github.com/ej8899/cyber101) | [🏡 ErnieJohnson.ca](https://www.erniejohnson.ca) | [💬 LinkedIn](https://www.linkedin.com/in/ernie-johnson/) |
 --- 
 
-This report was generated entirely by ChatGPT 4o for the purpose of evaluating accuracy and writing style for complete reports.  Although the ChatGPT component isn't a part of the Lighthouse Labs project, the report is for W08D4.
+_This report was generated entirely by ChatGPT 4o for the purpose of evaluating accuracy and writing style for complete reports.  Although the ChatGPT component isn't a part of the Lighthouse Labs project, the report is for W08D4. With an existing familiarity with OSSIM, I felt it to be more interesting to not just complete this report, but to see how well ChatGPT 4o can scrape the information desired and assemble a compresensive, and complete report._
+
+_As you can see from the following report, ChatGPT 4o continues to hallucinate often and fabricate 'realistic' stories, scenarios and references - often without indicating such. It can only be utilized as a research tool and not as something to provide complete works from._
 
 [ChatGPT Transcript here...](https://chatgpt.com/share/bebc8e15-3cb9-495d-87cb-4e2e83ea25fe )
 
