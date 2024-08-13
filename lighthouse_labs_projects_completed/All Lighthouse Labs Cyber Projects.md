@@ -50,9 +50,9 @@ Freelance job:
  - create IT and cybersecurity training materials
  - create and administer phishing attack simulations
  - develop custom software including smart digital kiosk displays (Rasbperry Pi4b Apache http server and Raspberry Pi4b display end points)
-### coming soon
- - training document templates
- - policy templates
+### also available
+ - [training document templates](../training_docs/)
+ - policy templates (soon)
 
 ---
 ---
