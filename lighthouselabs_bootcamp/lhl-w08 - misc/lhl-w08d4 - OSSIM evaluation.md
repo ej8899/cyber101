@@ -3,7 +3,9 @@
 #### [🛡️ GitHub Cyber Home](https://www.github.com/ej8899/cyber101) | [🏡 ErnieJohnson.ca](https://www.erniejohnson.ca) | [💬 LinkedIn](https://www.linkedin.com/in/ernie-johnson/) |
 --- 
 
-This report was generated entirely by ChatGPT 4o for the purpose of evaluating accuracy and writing style for complete reports.
+This report was generated entirely by ChatGPT 4o for the purpose of evaluating accuracy and writing style for complete reports.  Although the ChatGPT component isn't a part of the Lighthouse Labs project, the report is for W08D4.
+
+[ChatGPT Transcript here...](https://chatgpt.com/share/bebc8e15-3cb9-495d-87cb-4e2e83ea25fe )
 
 ---
 
