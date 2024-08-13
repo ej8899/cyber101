@@ -46,7 +46,7 @@ Ernie has successfully assisted organisations across various sectors, ranging fr
 - [Lighthouse Labs - Cybersecurity Bootcamp - 2024](https://github.com/ej8899/cyber101/blob/main/lighthouse_labs_projects_completed/All%20Lighthouse%20Labs%20Cyber%20Projects.md)
 - [Completed Jobs](https://github.com/ej8899/cyber101/blob/main/lighthouse_labs_projects_completed/All%20Lighthouse%20Labs%20Cyber%20Projects.md)
 -  [Assorted Related puzzles](./puzzles/README.md)  
-
+- [Training Documents](./training_docs/)
 ---
 ### My Home Lab Course...
 - [My Homelab "course" links](https://github.com/ej8899/cyber101/blob/main/homelab/links.md)  
