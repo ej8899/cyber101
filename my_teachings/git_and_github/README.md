@@ -4,6 +4,8 @@
   
 This training program is open for others to contribute to - be it spelling and grammar corrections, creating reference images, or adding and adjusting missing and outdated content.  Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
   
+This is very much a work in progress (at least as of 2024-08-14)  
+  
 ---
 # Git and GitHub - and Introduction
 
