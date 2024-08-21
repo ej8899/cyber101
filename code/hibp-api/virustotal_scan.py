@@ -2,18 +2,62 @@ import csv
 import json
 import requests
 import time
+from datetime import datetime
+import os
+import ipaddress
 
-
-# this code has been initally obtained from https://github.com/ph1nx/VirusTotal-Bulk-IP-Scanner
+# this code has been initially obtained from https://github.com/ph1nx/VirusTotal-Bulk-IP-Scanner
 # and has been modified by erniejohnson.ca for the purposes of a specific project.
 
-
-global apikey
+RED = "\033[31m"
+ORANGE = "\033[33m"
+GREEN = "\033[32m"
+BLUE = "\033[34m"
+RESET = "\033[0m"
 
 apikey = ''  # Your VirusTotal API Key
 
+# Function to clear the screen
+def clear_screen():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+# Function to pad the IP address to ensure alignment
+def pad_ip(ip_address):
+    max_length = 15  # Length of xxx.xxx.xxx.xxx
+    return ip_address.ljust(max_length)
+
+# Function to check if an IP address is local
+def is_local_ip(ip_address):
+    try:
+        ip = ipaddress.ip_address(ip_address)
+        return ip.is_private
+    except ValueError:
+        return False
+
+# Initialize counters
+local_ip_count = 0
+other_ip_count = 0
+malicious_ip_count = 0
+suspicious_ip_count = 0
+
 # Function to check if an IP address is malicious
 def check_ip(ip_address):
+    global local_ip_count, other_ip_count, malicious_ip_count, suspicious_ip_count
+    
+    if is_local_ip(ip_address):
+        padded_ip = pad_ip(ip_address)
+        print(f"{GREEN}IP: {padded_ip}\tLOCAL{RESET}")
+        local_ip_count += 1
+        return {
+            'IP Address': padded_ip,
+            'Country': 'LOCAL',
+            'Owner': 'LOCAL',
+            'Malicious': 0,
+            'Suspicious': 0,
+            'Undetected': 0,
+            'Total': 0
+        }
+
     url = f'https://www.virustotal.com/api/v3/ip_addresses/{ip_address}' 
     headers = {'x-apikey': apikey}
     response = requests.get(url, headers=headers)
@@ -35,11 +79,21 @@ def check_ip(ip_address):
     harmless = stat_analysis.get('harmless')
     
     total = int(malicious) + int(suspicious) + int(undetected) + int(harmless)
-    
-    print(f"IP: {ip_address}\tmalicious: {malicious}\tsuspicious {suspicious}")
+    other_ip_count += 1
+    if malicious > 0:
+        color = RED
+        malicious_ip_count += 1
+    elif suspicious > 0:
+        color = ORANGE
+        suspicious_ip_count += 1
+    else:
+        color = RESET
+
+    padded_ip = pad_ip(ip_address)
+    print(f"{color}IP: {padded_ip}\tmalicious: {malicious}\tsuspicious: {suspicious}{RESET}")
 
     return {
-        'IP Address': ip_address,
+        'IP Address': padded_ip,
         'Country': country,
         'Owner': as_owner,
         'Malicious': malicious,
@@ -49,16 +103,22 @@ def check_ip(ip_address):
     }
 
 # Read the CSV file
-input_file = 'IP_list.csv'  # Input CSV file path
-output_file = 'IP_score.csv'  # Output CSV file path
+input_file = 'ip_input.csv'  # Input CSV file path
+output_file = 'ip_score.csv'  # Output CSV file path
 
 try:
+    clear_screen()
+
+    start_time = datetime.now().strftime("%Y-%m-%d %H:%M")
+    print(f"Start date of analysis: {start_time}\n")
+
     with open(input_file, 'r', encoding='utf-8-sig') as infile:
         reader = csv.DictReader(infile)
         ip_list = list(reader)
 
     if len(ip_list) > 500:
         print("IP count exceeding VirusTotal rate limit. Checking malicious score for the first 500 IPs.")
+        # TODO filter out LOCAL ip's first
         ip_list = ip_list[:500]
 
     with open(output_file, 'w', newline='', encoding='utf-8') as outfile:
@@ -70,11 +130,11 @@ try:
             try:
                 column_name = 'IP_Address'  # Column name containing IP Addresses
                 ip_address = col[column_name]
-                # print(f"Started VirusTotal IP Scan...{ip_address}")
                 data = check_ip(ip_address)
                 writer.writerow(data)
                 
-                time.sleep(15)  # Sleep to ensure we don't exceed 4 requests per minute (API rate limit)
+                if not is_local_ip(ip_address):
+                    time.sleep(15)  # Sleep to ensure we don't exceed 4 requests per minute (API rate limit)
                 
             except KeyError:
                 print(f"The CSV does not contain {column_name} header.")
@@ -86,7 +146,17 @@ try:
             except Exception as e:
                 print(f"An unexpected error occurred while processing IP {ip_address}: {e}")
                 break
-    print("IP scan completed!!")
+    
+    end_time = datetime.now().strftime("%Y-%m-%d %H:%M")
+    print(f"\nEnd date of analysis: {end_time}\n")
+
+    # Display final counts
+    print(f"{GREEN}LOCAL{RESET} IPs discovered: {local_ip_count}")
+    print(f"{BLUE}OTHER{RESET} IPs discovered: {other_ip_count}")
+    print(f"{RED}MALICIOUS{RESET} IPs discovered: {malicious_ip_count}")
+    print(f"{ORANGE}SUSPICIOUS{RESET} IPs discovered: {suspicious_ip_count}")
+    total_count = local_ip_count + other_ip_count
+    print(f"\nIP scan completed... {ORANGE}{total_count}{RESET} IP's scanned.")
 
 except FileNotFoundError:
     print("The specified file was not found.")
