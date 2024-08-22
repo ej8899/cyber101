@@ -25,10 +25,26 @@ def remove_js_comments(content):
 def remove_blank_lines(content):
     return re.sub(r'\n\s*\n', '\n', content)
 
+def trim_whitespace(content):
+    # Trim leading/trailing whitespace from each line and condense multiple spaces.
+    # Trim leading and trailing whitespace from each line
+    content = "\n".join([line.strip() for line in content.splitlines()])
+    # Condense multiple spaces into a single space
+    content = re.sub(r'\s{2,}', ' ', content)
+    return content
+
+def remove_empty_functions(content):
+    # Remove empty functions.
+    # Remove functions with empty bodies or bodies containing only whitespace or comments
+    content = re.sub(r'function\s+\w+\s*\([^)]*\)\s*\{\s*\}', '', content)
+    return content
+
 def main(filename):
     content = read_file(filename)
     content = remove_js_comments(content)
     content = remove_blank_lines(content)
+    content = trim_whitespace(content)
+    content = remove_empty_functions(content)
     
     # Extract the base filename without the extension
     base_filename = os.path.splitext(os.path.basename(filename))[0]
