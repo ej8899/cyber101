@@ -46,6 +46,7 @@ A screen like above reprents a failed API call.  This is usually due to a bad AP
 
 ### Expected Output
 Successful scan results will look like this:
+![](./assets/virustotal_scan_output.png)
 
 And yes, this script is slow. The free VirussTotal API only allows 4 requests per minute so we have to use a delay to avoid hitting this rate limit.
 
