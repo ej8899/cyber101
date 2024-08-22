@@ -18,3 +18,4 @@ Sample obfuscated code included has 'zzz' in a couple of spots around l256 to pr
 
 
 ## Contributors
+- Ernie Johnson https://github.com/ej8899
