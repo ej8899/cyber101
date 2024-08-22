@@ -2,38 +2,37 @@ import sys
 import re
 import os
 
-def remove_js_comments(filename):
-    # Read the input file in binary mode and decode explicitly
-    with open(filename, 'rb') as file:
-        content = file.read().decode('utf-8', errors='ignore')  # 'utf-8' can be adjusted if necessary
+def read_file(filename):
+    # Read the content of the file.
+    with open(filename, 'r') as file:
+        return file.read()
 
-    # Regular expression to remove multiline comments (/* ... */)
-    content = re.sub(r'/\*.*?\*/', '', content, flags=re.DOTALL)
+def write_file(filename, content):
+    # Write the cleaned content to the output file.
+    with open(filename, 'w') as file:
+        file.write(content)
+    print(f"Cleaned file written to {filename}")
+
+def remove_js_comments(content):
+    # Remove multiline comments  (/* ... */)
+    cleaned_content = re.sub(r'/\*.*?\*/', '', content, flags=re.DOTALL)
+    # Remove single-line comments (// ...) 
+    cleaned_content = re.sub(r'//.*$', '', cleaned_content, flags=re.MULTILINE)
+    return cleaned_content
+
+def main(filename):
+    content = read_file(filename)
+    cleaned_content = remove_js_comments(content)
     
-    # Regular expression to remove single-line comments (// ... to the end of the line)
-    # This regex should match any // and remove everything that follows until the line ends, handling various line endings.
-    content = re.sub(r'//[^\r\n]*', '', content)
-
-    # Remove any leftover empty lines after removing comments
-    content = re.sub(r'\n\s*\n', '\n', content)
-    
-    # Ensure that all carriage returns are normalized to newlines
-    content = content.replace('\r\n', '\n').replace('\r', '\n')
-
     # Extract the base filename without the extension
     base_filename = os.path.splitext(os.path.basename(filename))[0]
-    
     # Define the output file name as cleaned_FILENAME.js
     output_filename = f"cleaned_{base_filename}.js"
-
-    # Write the cleaned content to the output file
-    with open(output_filename, 'w', encoding='utf-8') as file:
-        file.write(content)
-
-    print(f"Cleaned file written to {output_filename}")
+    
+    write_file(output_filename, cleaned_content)
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python remove_js_comments.py <filename.js>")
+        print("Usage: python clean_obfuscations.py <filename.js>")
     else:
-        remove_js_comments(sys.argv[1])
+        main(sys.argv[1])
