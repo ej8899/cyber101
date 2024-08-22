@@ -63,8 +63,7 @@ And yes, this script is slow. The free VirussTotal API only allows 4 requests pe
 This script automates the process of scanning a list of IPv4 addresses using the VirusTotal API.  It's a useful tool for network administrators and security professionals who need to quickly scan a large number of IP addresses for potential security threats.
 
 ### Contributors
-- Ernie Johnson
-- https://github.com/ej8899
+- Ernie Johnson https://github.com/ej8899
 
 ### Original Code & Inspiration
 https://github.com/ph1nx/VirusTotal-Bulk-IP-Scanner
