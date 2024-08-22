@@ -9,10 +9,12 @@ import ipaddress
 #
 # VirusTotal Automated Scanner
 #
-# this code has been initially obtained from https://github.com/ph1nx/VirusTotal-Bulk-IP-Scanner
-# and has been modified by erniejohnson.ca to add additional features.
-# the updated version can be found at https://github.com/ej8899/cyber101/blob/main/code/hibp-api/virustotal_scan.py
+# v1.1 - 2024-08-22
 #
+# The current version of this code can be found at 
+# https://github.com/ej8899/cyber101/blob/main/code/virustotal/
+#
+
 
 # Variables
 
