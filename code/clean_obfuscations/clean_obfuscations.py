@@ -16,20 +16,26 @@ def write_file(filename, content):
 def remove_js_comments(content):
     # Remove multiline comments  (/* ... */)
     cleaned_content = re.sub(r'/\*.*?\*/', '', content, flags=re.DOTALL)
-    # Remove single-line comments (// ...) 
-    cleaned_content = re.sub(r'//.*$', '', cleaned_content, flags=re.MULTILINE)
+    
+    # Remove single-line comments that start with // followed by at least one space (tab, etc)
+    cleaned_content = re.sub(r'//\s+.*$', '', cleaned_content, flags=re.MULTILINE)
+    
     return cleaned_content
+
+def remove_blank_lines(content):
+    return re.sub(r'\n\s*\n', '\n', content)
 
 def main(filename):
     content = read_file(filename)
-    cleaned_content = remove_js_comments(content)
+    content = remove_js_comments(content)
+    content = remove_blank_lines(content)
     
     # Extract the base filename without the extension
     base_filename = os.path.splitext(os.path.basename(filename))[0]
     # Define the output file name as cleaned_FILENAME.js
-    output_filename = f"cleaned_{base_filename}.js"
+    output_filename = f"CLEANED_{base_filename}.js"
     
-    write_file(output_filename, cleaned_content)
+    write_file(output_filename, content)
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
