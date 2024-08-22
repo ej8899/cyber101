@@ -5,7 +5,7 @@
 ---
 
 ### Overview
-This Python script automates the scanning of a list of IPv4 addresses using the VirusTotal API.  The script then displays the results, including the IP address, scan results and a brief summary of the scan results.
+This Python script automates the scanning of a list of IPv4 addresses using the VirusTotal AP (v3).  The script then displays the results, including the IP address, scan results and a brief summary of the scan results.
 
 ### Contributing
 If you'd like to contribute to this project, please feel free.  Fork this, make your changes, and submit a pull request.  Or just open an issue if you're asking for a new feature or have a bug report.
@@ -55,7 +55,7 @@ And yes, this script is slow. The free VirussTotal API only allows 4 requests pe
 - ensure the initial count of IPs ignores local IP's to not take only the first 500 (rate limit) but to take the first 500 that are not local instead
 - add a progress bar to show how many IPs have been scanned and how many are left
 - improve upon output file formatting
-
+- turn into a web application and allow links to the VirusTotal report for each IP (problem would be daily API limits for a singular key - or request users to enter their own key - although we could always cache results to help with this limit)
 
 
 ### Conclusion
