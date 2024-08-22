@@ -6,8 +6,28 @@ from datetime import datetime
 import os
 import ipaddress
 
+#
+# VirusTotal Automated Scanner
+#
 # this code has been initially obtained from https://github.com/ph1nx/VirusTotal-Bulk-IP-Scanner
-# and has been modified by erniejohnson.ca for the purposes of a specific project.
+# and has been modified by erniejohnson.ca to add additional features.
+# the updated version can be found at https://github.com/ej8899/cyber101/blob/main/code/hibp-api/virustotal_scan.py
+#
+
+# Variables
+
+# Your VirusTotal API Key:
+apikey = ''
+
+# Input CSV file path
+input_file = 'ip_input.csv'
+# the input file should be a csv file with a column named "Address"
+
+# Output CSV file path
+output_file = 'ip_score.csv'
+
+
+# Constants
 
 RED = "\033[31m"
 ORANGE = "\033[33m"
@@ -15,7 +35,7 @@ GREEN = "\033[32m"
 BLUE = "\033[34m"
 RESET = "\033[0m"
 
-apikey = ''  # Your VirusTotal API Key
+
 
 # Function to clear the screen
 def clear_screen():
@@ -103,9 +123,6 @@ def check_ip(ip_address):
     }
 
 # Read the CSV file
-input_file = 'ip_input.csv'  # Input CSV file path
-output_file = 'ip_score.csv'  # Output CSV file path
-
 try:
     clear_screen()
 
@@ -128,7 +145,7 @@ try:
         writer.writeheader()
         for col in ip_list:
             try:
-                column_name = 'IP_Address'  # Column name containing IP Addresses
+                column_name = 'Address'  # Column name containing IP Addresses
                 ip_address = col[column_name]
                 data = check_ip(ip_address)
                 writer.writerow(data)
