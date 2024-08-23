@@ -33,6 +33,7 @@ output_file = 'ip_score.csv'
 # TODO list:
 # - count IP's and estimate time to completion
 # - add a progress bar
+# - show duration of scan (in seconds/minutes/hours)
 #
 
 
