@@ -29,6 +29,13 @@ input_file = 'ip_input.csv'
 output_file = 'ip_score.csv'
 
 
+#
+# TODO list:
+# - count IP's and estimate time to completion
+# - add a progress bar
+#
+
+
 # Constants
 
 RED = "\033[31m"

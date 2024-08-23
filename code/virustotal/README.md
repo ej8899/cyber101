@@ -57,7 +57,7 @@ And yes, this script is slow. The free VirussTotal API only allows 4 requests pe
 - add a progress bar to show how many IPs have been scanned and how many are left
 - improve upon output file formatting
 - turn into a web application and allow links to the VirusTotal report for each IP (problem would be daily API limits for a singular key - or request users to enter their own key - although we could always cache results to help with this limit)
-
+- show time estimate to complete the scan
 
 ### Conclusion
 This script automates the process of scanning a list of IPv4 addresses using the VirusTotal API.  It's a useful tool for network administrators and security professionals who need to quickly scan a large number of IP addresses for potential security threats.
