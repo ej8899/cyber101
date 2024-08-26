@@ -7,3 +7,17 @@ I've created these training and education documents to help others learn about c
 
 For anyone looking to have these custom branded for your own company, please contact me for details, alternatively if you need materials custom created, please contact me for details as well.
 
+---
+
+<table>
+<tr>
+<td width="250">
+<img src="./NOBRAND cybersecurity - PASSWORD V PASSPHRASES.png" alt="NOBRAND cybersecurity - PASSWORD V PASSPHRASES" width="250">
+</td>
+<td valign="top">
+This document covers the differences between passwords and passphrases, and how to create strong, but yet easy to recall passphrases.  We also discuss weak passwords and how quickly they can be 'hacked'.
+<br><br>
+<a href="./NOBRAND cybersecurity - PASSWORD V PASSPHRASES.png" target=_new>click here</a>
+</td>
+</tr>
+</table>
