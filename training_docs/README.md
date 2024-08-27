@@ -10,6 +10,20 @@ For anyone looking to have these custom branded for your own company, please con
 ---
 
 <table border=1>
+
+<tr>
+<td width="250">
+<img src="./cybersecurity - EVIL TWIN - NO BRANDING.png" alt="cybersecurity - evil twin wifi" width="250">
+</td>
+<td valign="top">
+Added: 2024-08-27<br>
+This document covers the basics of the Evil Twin attack and how to defend against it. 
+<br><br>
+<a href="./cybersecurity - EVIL TWIN - NO BRANDING.png" target=_new>click here</a>
+</td>
+</tr>
+
+
 <tr>
 <td width="250">
 <img src="./NOBRAND cybersecurity - PASSWORD V PASSPHRASES.png" alt="NOBRAND cybersecurity - PASSWORD V PASSPHRASES" width="250">
