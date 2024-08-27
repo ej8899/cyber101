@@ -16,7 +16,7 @@ For anyone looking to have these custom branded for your own company, please con
 <img src="./cybersecurity - EVIL TWIN - NO BRANDING.png" alt="cybersecurity - evil twin wifi" width="250">
 </td>
 <td valign="top">
-Added: 2024-08-27<br>
+Added: 2024-08-27<br><br>
 This document covers the basics of the Evil Twin attack and how to defend against it. 
 <br><br>
 <a href="./cybersecurity - EVIL TWIN - NO BRANDING.png" target=_new>click here</a>
