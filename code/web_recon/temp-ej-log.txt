@@ -1,0 +1,13 @@
+49.13.59.110 - - [07/Sep/2024:07:51:35 -0500] "GET / HTTP/1.1" 200 4953 "-" "SiteCheckerBotCrawler/1.0 (+http://sitechecker.pro)" erniejohnson.ca 192.185.102.2
+49.13.59.110 - - [07/Sep/2024:08:03:32 -0500] "GET / HTTP/1.1" 200 4953 "-" "SiteCheckerBotCrawler/1.0 (+http://sitechecker.pro)" erniejohnson.ca 192.185.102.2
+49.13.59.110 - - [07/Sep/2024:08:15:13 -0500] "GET / HTTP/1.1" 200 4953 "-" "SiteCheckerBotCrawler/1.0 (+http://sitechecker.pro)" erniejohnson.ca 192.185.102.2
+49.13.59.110 - - [07/Sep/2024:08:26:54 -0500] "GET / HTTP/1.1" 200 4953 "-" "SiteCheckerBotCrawler/1.0 (+http://sitechecker.pro)" erniejohnson.ca 192.185.102.2
+49.13.59.110 - - [07/Sep/2024:08:38:52 -0500] "GET / HTTP/1.1" 200 4953 "-" "SiteCheckerBotCrawler/1.0 (+http://sitechecker.pro)" erniejohnson.ca 192.185.102.2
+9.13.59.110 - - [07/Sep/2024:20:35:34 -0500] "GET / HTTP/1.1" 200 4953 "-" "SiteCheckerBotCrawler/1.0 (+http://sitechecker.pro)" erniejohnson.ca 192.185.102.2
+74.14.43.176 - - [07/Sep/2024:20:39:41 -0500] "GET /example1 HTTP/1.1" 404 1896 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" www.erniejohnson.ca 192.185.102.2
+74.14.43.176 - - [07/Sep/2024:20:39:41 -0500] "GET /upload HTTP/1.1" 404 1896 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" www.erniejohnson.ca 192.185.102.2
+74.14.43.176 - - [07/Sep/2024:20:39:41 -0500] "GET /uploads/ HTTP/1.1" 404 1896 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" www.erniejohnson.ca 192.185.102.2
+74.14.43.176 - - [07/Sep/2024:20:39:41 -0500] "GET /admin/ HTTP/1.1" 404 1896 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" www.erniejohnson.ca 192.185.102.2
+74.14.43.176 - - [07/Sep/2024:20:39:42 -0500] "GET /2007/ HTTP/1.1" 404 1896 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" www.erniejohnson.ca 192.185.102.2
+74.14.43.176 - - [07/Sep/2024:20:39:42 -0500] "GET /lib/ HTTP/1.1" 200 692 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" www.erniejohnson.ca 192.185.102.2
+74.14.43.176 - - [07/Sep/2024:20:39:42 -0500] "GET /login/ HTTP/1.1" 200 689 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" www.erniejohnson.ca 192.185.102.2
