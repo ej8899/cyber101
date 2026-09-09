@@ -4,7 +4,7 @@
 [![GitHub](https://lab.packet-rats.com/badge/render?label=github\&val=ej8899\&color=slate\&style=flat-square)](https://github.com/ej8899)
 [![LinkedIn](https://lab.packet-rats.com/badge/render?label=linkedin\&val=connect\&color=azure\&style=flat-square)](https://www.linkedin.com/in/ernie-johnson/)
 [![Email](https://lab.packet-rats.com/badge/render?label=email\&val=contact\&color=teal\&style=flat-square)](mailto:ej8899@gmail.com)
-![README Views](https://lab.packet-rats.com/badge/render?id=cyber101-readme\&label=readme%20views\&format=short\&color=brightgreen\&style=flat-square)
+![README Views](https://lab.packet-rats.com/badge/render?id=cyber101-readme1&label=readme%20views&start=1919&format=short&color=brightgreen&style=flat-square)
 
 A collection of cybersecurity work, infrastructure experiments, labs, notes, training material and projects built while learning, operating and securing real-world systems.
 
